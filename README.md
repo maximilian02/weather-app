@@ -1,3 +1,7 @@
+I've took a moment to write an MVP of the weather app requesting directly with axios and with a very simple unit test, avoiding the use of a store like redux and abstract everything to a state.
+
+Here up next are the steps to run the project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
